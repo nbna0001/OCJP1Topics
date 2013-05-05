@@ -11,7 +11,8 @@ public class Calculator {
 		calinstance_count++;
 		// TODO Auto-generated constructor stub
 		System.out.println("Cal is at your service");
-			
+			 
+		
 	}
 	
 	
